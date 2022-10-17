@@ -55,4 +55,3 @@ Welcome to Open-Source OS Training Comp 2022（2022 年开源操作系统训练�
 - 华为
 - 智谱 ai
 - 101 计划操作系统课程虚拟教研室
-- [上海大学开源社区](https://github.com/shuosc/)
